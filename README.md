@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/46a371e5-18fb-4acd-85a8-e61c22830d29" width="160" height="160">
+
 # Open Public Design System
 
 An **open-source, community-driven design system** for designers and developers. Contribute, build, and scale UI components together!
